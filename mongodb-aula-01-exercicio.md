@@ -1,5 +1,6 @@
 # MongoDB - Aula 01 - Exercício
 autor: JÔNATAS FILIPE VIEIRA
+OS: Windows 10
 
 ## Importando os restaurantes
 
